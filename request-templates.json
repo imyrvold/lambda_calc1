@@ -1,0 +1,3 @@
+{
+  "application/json":"{\n    \"a\":  $input.params('operand1'),\n    \"b\":  $input.params('operand2'), \n    \"op\": \"$input.params('operator')\"   \n}" 
+}
